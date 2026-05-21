@@ -1,5 +1,11 @@
 # the-wild-oasis
 
-> > > > > > > f4bc5202c4fc9706376ababd673e0898932a16b1
-مهارت ها:React، Vite، Supabase، React Query، React Hook Form، Styled Components
-در این پروژه از Supabase برای مدیریت داده‌ها، و از Styled Components برای طراحی رابط کاربری مدرن استفاده شد. فرم‌ها با React Hook Form اعتبارسنجی شدند و React Query برای مدیریت درخواست‌های API به‌کار رفت. همچنین پروژه با Vite پیاده‌سازی شد تا سرعت توسعه افزایش یابد.
+![Project Preview](./public/preview.png)
+
+## Tech Stack
+
+React, Vite, Supabase, React Query, React Hook Form, Styled Components
+
+## About The Project
+
+This project was built using Supabase for backend and data management, Styled Components for creating a modern UI, React Hook Form for form handling and validation, and React Query for efficient API state management. The application was developed with Vite to provide a faster and smoother development experience.
